@@ -1,18 +1,1 @@
-{
-  "name": "xhs-poster",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "ts-node index.ts",
-    "dev": "NODE_ENV=development ts-node index.ts",
-    "build": "tsc"
-  },
-  "dependencies": {
-    "@supabase/supabase-js": "^2.39.0",
-    "playwright": "^1.42.0",
-    "canvas": "^2.11.2",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.3.0",
-    "@types/node": "^20.11.0"
-  }
-}
+{\n  "name": "xhs-poster",\n  "version": "1.0.0",\n  "main": "index.js",\n  "scripts": {\n    "start": "ts-node index.ts",\n    "dev": "NODE_ENV=development ts-node index.ts",\n    "build": "tsc"\n  },\n  "dependencies": {\n    "@supabase/supabase-js": "^2.39.0",\n    "playwright": "^1.42.0",\n    "canvas": "^2.11.2",\n    "ts-node": "^10.9.2",\n    "typescript": "^5.3.0",\n    "@types/node": "^20.11.0"\n  }\n}

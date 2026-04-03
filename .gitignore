@@ -1,0 +1,1 @@
+node_modules/\n.env\n.env.local\ndist/\n/tmp/\n*.png\ncookies.json\n__pycache__/\n.DS_Store\n*.js.map
